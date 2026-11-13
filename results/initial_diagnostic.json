@@ -1,0 +1,183 @@
+{
+  "report_type": "HISTORICAL_LAB_INITIAL_DIAGNOSTIC",
+  "created_at": "2026-11-10T18:06:01.146596+03:00",
+  "project_folder": "C:\\Users\\Cristal\\Desktop\\Tsclp_v2.1_volatile_HISTORICAL_LAB_1Y",
+  "required_files": [
+    "main.py",
+    "config.py",
+    "strategy.py",
+    "risk_manager.py",
+    "execution.py",
+    "screener.py",
+    "logger.py",
+    "requirements.txt"
+  ],
+  "missing_required_files": [],
+  "source_files": [
+    {
+      "file": "check_lab.py",
+      "size_bytes": 2672,
+      "sha256": "9df6c026c1c9f7b367d53b8930da38795e6a0f471960f56a3b8d9121e8450830"
+    },
+    {
+      "file": "check_ma100.py",
+      "size_bytes": 1739,
+      "sha256": "86541a45b577fe18feb1144b1c680de4b9081ff022fe74498da038683175f0b1"
+    },
+    {
+      "file": "check_readonly.py",
+      "size_bytes": 797,
+      "sha256": "33c60f203ceb5e59dca8d9e51c398d528978fa58189b37c65796a0dbaed0df56"
+    },
+    {
+      "file": "check_sandbox.py",
+      "size_bytes": 5605,
+      "sha256": "fd0e879d58235f365b2c8ea82698221c7fa7f1ef3213bc080f502aff9a337d52"
+    },
+    {
+      "file": "check_shares.py",
+      "size_bytes": 2211,
+      "sha256": "2e3a3b1aa30b60861af5edc2ee1f5beaaf6443290d8c6478ad258b2b231a22e5"
+    },
+    {
+      "file": "check_shares2.py",
+      "size_bytes": 1305,
+      "sha256": "3467e4d5e474e389b8dfe2ab0b6357fea401a3fd65c6cc9764a1816f7a1a913b"
+    },
+    {
+      "file": "close_all_positions.py",
+      "size_bytes": 3742,
+      "sha256": "0fad8c073e494f04a4ba458bea4f36bc14ac06b6052c4f8dcff1f1cb8a5d61b0"
+    },
+    {
+      "file": "close_all_positions_v2.py",
+      "size_bytes": 2792,
+      "sha256": "c89e086e1845dce7a1e0e24e144756d1ab88b7ee35cc37239882737095d61984"
+    },
+    {
+      "file": "close_lsrg.py",
+      "size_bytes": 1480,
+      "sha256": "a93a1ae741397fbdd76f2c6facd3ecdcb47073b2e410cee8c9445e6edb30a992"
+    },
+    {
+      "file": "config.py",
+      "size_bytes": 4122,
+      "sha256": "20f5c022888c15145f5b47d89ef706aeec8fc4f6a7f9f35753ac215d85d1e7d3"
+    },
+    {
+      "file": "diagnose_sandbox.py",
+      "size_bytes": 4569,
+      "sha256": "8ee883201e6a3ff35d0db70f37197240dd0684df5d40716eb09623b49fa81908"
+    },
+    {
+      "file": "execution.py",
+      "size_bytes": 7560,
+      "sha256": "c53dd7ee4cb9b418e9fdd0fdde61b82b88c98dcde4d65af89683705f86c1bafb"
+    },
+    {
+      "file": "logger.py",
+      "size_bytes": 4328,
+      "sha256": "1e8a4f7ba1d8908dded39132b730cae4615fc91171f89f441f9a85fb8aa6b2dc"
+    },
+    {
+      "file": "main.py",
+      "size_bytes": 32321,
+      "sha256": "38f71e1e003cc94d17995fdc383b2ea33c9b0154377b8b6a93c7d9d9819f294d"
+    },
+    {
+      "file": "pay_in.py",
+      "size_bytes": 1884,
+      "sha256": "bd1a0e279301e2d4011606a487d6c2227d6cff9a00a2bb6fef9a1ff65c22e5a9"
+    },
+    {
+      "file": "requirements.txt",
+      "size_bytes": 414,
+      "sha256": "636df79532095437a0f13903280ee3141377b09e1b6ad37002fa33716d200cd0"
+    },
+    {
+      "file": "risk_manager.py",
+      "size_bytes": 7368,
+      "sha256": "6e3206cb8a1b735313708b3a84227272fb208a5d16ea5beaa7d4ba0ad12eacca"
+    },
+    {
+      "file": "screener.py",
+      "size_bytes": 5694,
+      "sha256": "e5db09fc607e96c52da4c2c4260b7f4720437551674da85fa52c5d286a2f15c3"
+    },
+    {
+      "file": "strategy.py",
+      "size_bytes": 15459,
+      "sha256": "43906866a226aabae0fff266dde77d88345ae27f87b0948689929aa37171537f"
+    },
+    {
+      "file": "telegram_bot.py",
+      "size_bytes": 6798,
+      "sha256": "8a98ab4c5b5fe5070813e3ac4bf0f57f592c0d9ce5483df826ad1f2cd1ca1f6e"
+    },
+    {
+      "file": "tests\\__init__.py",
+      "size_bytes": 19,
+      "sha256": "396cf451ade87cc72f90173d44438b5b05320a1eed2f55de00f662b14eb00f61"
+    },
+    {
+      "file": "tests\\test_commission.py",
+      "size_bytes": 3023,
+      "sha256": "5003741a3e01e9170cd12cb9fc523be0123738ece3f7ba35b2958e4cb7bcf917"
+    },
+    {
+      "file": "tests\\test_execution.py",
+      "size_bytes": 6862,
+      "sha256": "d201013c3d72325de05bb8d26d7af270ef4fb44df8143c5f64b119672001844e"
+    },
+    {
+      "file": "tests\\test_fail_closed.py",
+      "size_bytes": 6970,
+      "sha256": "390c52048067f1798c02b00a98c748d83f42a18ffb9ffbbf3770808dce0608de"
+    },
+    {
+      "file": "tests\\test_main_helpers.py",
+      "size_bytes": 13051,
+      "sha256": "38755512cc4e186c92b6ec930198c9c1ade8625fcc5d656d5d344b1e01ff0d19"
+    },
+    {
+      "file": "tests\\test_risk_manager.py",
+      "size_bytes": 3172,
+      "sha256": "ff17b7a40f485f38e527568e55b55d88552efe19678f920240bd70ed56b7b020"
+    },
+    {
+      "file": "tests\\test_safety.py",
+      "size_bytes": 2662,
+      "sha256": "7498d1e800c3b0a00f4de1734121e7f2b52fcf42a63bead2ea7a61917f0b7644"
+    },
+    {
+      "file": "tests\\test_screener.py",
+      "size_bytes": 5725,
+      "sha256": "f7293d34a70846f03f7eed636894665aaa1ced1f606ac7cf506ebd93b2593883"
+    },
+    {
+      "file": "tests\\test_slippage.py",
+      "size_bytes": 3896,
+      "sha256": "046a34182928a5d380a3e8a187a84fa320faa63de34a133e85aaee2773ef7cca"
+    },
+    {
+      "file": "tests\\test_strategy.py",
+      "size_bytes": 7703,
+      "sha256": "a01079279c8c4b34dc92caa37a6f3fcad095c6d449cf5e428bf9e214fae3ea26"
+    },
+    {
+      "file": "tinkoff_client.py",
+      "size_bytes": 9094,
+      "sha256": "b29383338663e2cb63b9af8803524c4a697dad879fddb661e438ae53c70bbdfc"
+    },
+    {
+      "file": "tools\\buy_one_lot_sber.py",
+      "size_bytes": 2400,
+      "sha256": "87662577384b76a583f0aaba9e7a07ee1c9487c286fcff9c34977867874c8674"
+    },
+    {
+      "file": "tools\\diag_positions.py",
+      "size_bytes": 703,
+      "sha256": "75187c07c4ffd50c00fc8f0a1cb2c4368ce2fe911b30a58281fcb878b8479e1a"
+    }
+  ]
+}

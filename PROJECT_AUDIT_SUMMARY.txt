@@ -1,0 +1,364 @@
+﻿PROJECT AUDIT SUMMARY
+DATE: 2026-11-10 18:51:01
+ROOT: C:\Users\Cristal\Desktop\Tsclp_v2.1_volatile_HISTORICAL_LAB_1Y
+
+=== FILE INVENTORY ===
+\.env | 1172 bytes
+\.env.example | 907 bytes
+\.gitignore | 270 bytes
+\.pytest_cache\.gitignore | 37 bytes
+\.pytest_cache\CACHEDIR.TAG | 191 bytes
+\.pytest_cache\README.md | 302 bytes
+\.pytest_cache\v\cache\lastfailed | 90 bytes
+\.pytest_cache\v\cache\nodeids | 6739 bytes
+\check_config.ps1 | 575 bytes
+\check_lab.py | 2672 bytes
+\check_ma100.py | 1739 bytes
+\check_readonly.py | 797 bytes
+\check_sandbox.py | 5605 bytes
+\check_shares.py | 2211 bytes
+\check_shares2.py | 1305 bytes
+\close_all_positions.py | 3742 bytes
+\close_all_positions_v2.py | 2792 bytes
+\close_lsrg.py | 1480 bytes
+\config.py | 4122 bytes
+\config.py bak v1.0 | 3846 bytes
+\diagnose_sandbox.py | 4569 bytes
+\execution.py | 7560 bytes
+\logger.py | 4328 bytes
+\main.py | 32321 bytes
+\pay_in.py | 1884 bytes
+\README.md | 2012 bytes
+\requirements.txt | 414 bytes
+\research_events.jsonl | 347773 bytes
+\research_events_pilot.jsonl | 30904 bytes
+\research_events-old.jsonl | 23513 bytes
+\research_trades.csv | 1053 bytes
+\research_trades_pilot.csv | 3714 bytes
+\research_trades-old.csv | 1570 bytes
+\results\initial_diagnostic.json | 5821 bytes
+\risk_manager.py | 7368 bytes
+\run_tests.ps1 | 415 bytes
+\sandbox_pnl.csv | 194 bytes
+\screener.py | 5694 bytes
+\strategy.py | 15459 bytes
+\telegram_bot.py | 6798 bytes
+\tests\__init__.py | 19 bytes
+\tests\test_commission.py | 3023 bytes
+\tests\test_execution.py | 6862 bytes
+\tests\test_fail_closed.py | 6970 bytes
+\tests\test_main_helpers.py | 13051 bytes
+\tests\test_risk_manager.py | 3172 bytes
+\tests\test_safety.py | 2662 bytes
+\tests\test_screener.py | 5725 bytes
+\tests\test_slippage.py | 3896 bytes
+\tests\test_strategy.py | 7703 bytes
+\tinkoff_client.py | 9094 bytes
+\tools\buy_one_lot_sber.py | 2400 bytes
+\tools\diag_positions.py | 703 bytes
+\trading.flag | 32 bytes
+
+=== PYTHON FILES: IMPORTS ONLY ===
+
+--- \check_lab.py ---
+from pathlib import Path
+import hashlib
+import json
+from datetime import datetime
+
+--- \check_ma100.py ---
+import asyncio
+from datetime import timedelta
+import pandas as pd
+import pandas_ta_classic as ta
+from t_tech.invest import CandleInterval, InstrumentIdType
+from t_tech.invest.sandbox.async_client import AsyncSandboxClient
+from t_tech.invest.utils import now, quotation_to_decimal
+import config
+
+--- \check_readonly.py ---
+import asyncio
+import config
+from t_tech.invest import AsyncClient, InstrumentIdType
+
+--- \check_sandbox.py ---
+import asyncio
+import csv
+import logging
+import os
+from datetime import datetime, timedelta
+from t_tech.invest.sandbox.async_client import AsyncSandboxClient
+from t_tech.invest.utils import quotation_to_decimal
+import config
+
+--- \check_shares.py ---
+import asyncio
+import config
+from t_tech.invest import AsyncClient, InstrumentStatus
+import inspect
+
+--- \check_shares2.py ---
+import asyncio
+import config
+from t_tech.invest import AsyncClient, InstrumentStatus
+
+--- \close_all_positions.py ---
+import asyncio
+import logging
+from t_tech.invest import OrderDirection, OrderType
+from t_tech.invest.sandbox.async_client import AsyncSandboxClient
+from t_tech.invest.utils import quotation_to_decimal
+import config
+
+--- \close_all_positions_v2.py ---
+import asyncio
+from t_tech.invest import OrderDirection, OrderType
+from t_tech.invest.sandbox.async_client import AsyncSandboxClient
+from t_tech.invest.utils import quotation_to_decimal
+import config
+
+--- \close_lsrg.py ---
+import asyncio
+import config
+from t_tech.invest import AsyncClient, OrderDirection, OrderType
+from t_tech.invest.sandbox.async_client import AsyncSandboxClient
+from t_tech.invest.utils import quotation_to_decimal
+
+--- \config.py ---
+import os
+from dotenv import load_dotenv
+
+--- \diagnose_sandbox.py ---
+import argparse
+import asyncio
+import logging
+from datetime import timedelta
+from t_tech.invest import CandleInterval, InstrumentIdType
+from t_tech.invest.sandbox.async_client import AsyncSandboxClient
+from t_tech.invest.utils import now, quotation_to_decimal
+import config
+
+--- \execution.py ---
+import logging
+from dataclasses import dataclass
+from enum import Enum
+from typing import Dict, List, Optional
+import config
+
+--- \logger.py ---
+import csv
+import json
+import logging
+import os
+from datetime import datetime, timezone
+from typing import Optional
+import config
+
+--- \main.py ---
+import asyncio
+import csv
+import logging
+import os
+import uuid
+from datetime import datetime, timezone
+import pandas as pd
+from t_tech.invest import (
+import config
+import logger as research_logger
+from risk_manager import RiskManager
+from strategy import StrategyManager
+from tinkoff_client import TinkoffClient
+from execution import ExecutionMonitor, PositionState
+from screener import Screener
+from telegram_bot import TelegramBot
+
+--- \pay_in.py ---
+import asyncio
+from decimal import Decimal
+import logging
+from t_tech.invest.sandbox.async_client import AsyncSandboxClient
+from t_tech.invest.utils import decimal_to_quotation
+import config
+
+--- \risk_manager.py ---
+import logging
+from typing import Optional, Tuple
+from datetime import date
+import pandas as pd
+import pandas_ta_classic as ta
+import config
+
+--- \screener.py ---
+import asyncio
+import logging
+from datetime import timedelta
+from typing import Optional
+import pandas as pd
+import pandas_ta_classic as ta
+from t_tech.invest import AsyncClient, CandleInterval, InstrumentStatus
+from t_tech.invest.utils import now
+import config
+
+--- \strategy.py ---
+import logging
+from typing import Optional, Tuple
+import pandas as pd
+import pandas_ta_classic as ta
+import config
+
+--- \telegram_bot.py ---
+import asyncio
+import logging
+from telegram import Update, BotCommand
+from telegram.ext import Application, CommandHandler, ContextTypes
+from telegram.request import HTTPXRequest
+import logger as research_logger
+
+--- \tests\__init__.py ---
+
+--- \tests\test_commission.py ---
+import pytest
+from execution import ExecutionMonitor
+
+--- \tests\test_execution.py ---
+import pytest
+from execution import ExecutionMonitor, PositionState
+
+--- \tests\test_fail_closed.py ---
+import csv
+import pytest
+import main
+import logger as research_logger
+from execution import ExecutionMonitor, PositionState
+import main as m
+
+--- \tests\test_main_helpers.py ---
+import csv
+import os
+import pytest
+import main
+import logger as research_logger
+from execution import ExecutionMonitor, PositionState
+
+--- \tests\test_risk_manager.py ---
+import pandas as pd
+import pytest
+from risk_manager import RiskManager
+import config
+
+--- \tests\test_safety.py ---
+import pytest
+from tinkoff_client import TinkoffClient, SandboxRequiredError
+import telegram_bot
+import telegram_bot
+import telegram_bot
+
+--- \tests\test_screener.py ---
+import pytest
+from datetime import datetime, timedelta
+import screener as screener_module
+from screener import Screener
+import config
+
+--- \tests\test_slippage.py ---
+import pytest
+
+--- \tests\test_strategy.py ---
+import pandas as pd
+import pytest
+import config
+import strategy
+from strategy import StrategyManager
+
+--- \tinkoff_client.py ---
+import asyncio
+import logging
+import uuid
+from datetime import timedelta
+from typing import Optional
+from t_tech.invest import (
+from t_tech.invest.sandbox.async_client import AsyncSandboxClient
+from t_tech.invest.utils import now, quotation_to_decimal, decimal_to_quotation
+import config
+
+--- \tools\buy_one_lot_sber.py ---
+import asyncio
+import logging
+from t_tech.invest import OrderDirection, OrderType, InstrumentIdType
+import config
+from tinkoff_client import TinkoffClient
+
+--- \tools\diag_positions.py ---
+import asyncio
+import json
+import config
+from tinkoff_client import TinkoffClient
+
+=== CONFIGURATION CONSTANTS ===
+
+--- config.py ---
+TINKOFF_API_TOKEN = os.getenv("TINKOFF_API_TOKEN")
+TINKOFF_READONLY_TOKEN = os.getenv("TINKOFF_READONLY_TOKEN")
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+TINKOFF_ACCOUNT_ID = os.getenv("TINKOFF_ACCOUNT_ID")
+TELEGRAM_ALLOWED_USER_ID = os.getenv("TELEGRAM_ALLOWED_USER_ID")
+USE_SANDBOX = True
+ENABLE_TELEGRAM = True
+TOP_VOLATILE_INSTRUMENTS_COUNT = 10
+VOLATILITY_PERIOD_DAYS = 30
+VOLATILITY_REFRESH_HOURS = 24
+MIN_DAILY_TURNOVER_RUB = 10_000_000
+RISK_PER_TRADE = 0.01
+MIN_STOP_LOSS_PERCENT = 0.005
+STOP_LOSS_PERCENT = 0.012
+TAKE_PROFIT_RATIO = 2.0
+ATR_STOP_MULTIPLIER = 1.5
+ATR_PERIOD_INTRADAY = 20
+ATR_PERIOD = 14
+MAX_ATR_STOP_PERCENT = 0.03
+MAX_POSITION_SHARE_PER_INSTRUMENT = 0.2
+MAX_TOTAL_EXPOSURE = 0.6
+MAX_TRADES_PER_INSTRUMENT_PER_DAY = 5
+POSITION_QUANTITY_IS_LOTS = True
+COMMISSION_MODE = "TRADER"
+COMMISSION_PER_SIDE = 0.003 if COMMISSION_MODE == "INVESTOR" else 0.0005
+SLIPPAGE_PERCENT = 0.0002
+MA_FAST_PERIOD = 9
+MA_SLOW_PERIOD = 21
+TREND_FILTER_MA_PERIOD = 100
+BB_PERIOD = 20
+BB_STD_DEV = 2
+RSI_PERIOD = 14
+RSI_OVERBOUGHT = 70
+RSI_OVERSOLD = 30
+MIN_CANDLES_FOR_SIGNAL = 60
+ADX_PERIOD = 14
+PROFILE = "CONSERVATIVE"
+VOLUME_CONFIRMATION_WINDOW = 20
+API_RETRY_COUNT = 3
+API_RETRY_DELAY_SECONDS = 5
+API_REQUEST_TIMEOUT_SECONDS = 10
+API_CALL_DELAY_SECONDS = 0.03
+TRADING_CYCLE_SECONDS = 30
+CANDLES_LOOKBACK_DAYS = 2
+STARTING_BALANCE = os.getenv("STARTING_BALANCE")
+
+--- requirements.txt ---
+t-tech-investments==1.51.0
+pandas>=2.0
+pandas-ta-classic>=0.3.14b
+python-telegram-bot>=20.0,<22.0
+python-dotenv>=1.0
+pytest>=7.0
+pytest-asyncio>=0.23
+
+=== DATA FILE INVENTORY ===
+\research_events-old.jsonl | 22.96 KB
+\research_events.jsonl | 339.62 KB
+\research_events_pilot.jsonl | 30.18 KB
+\research_trades-old.csv | 1.53 KB
+\research_trades.csv | 1.03 KB
+\research_trades_pilot.csv | 3.63 KB
+\sandbox_pnl.csv | 0.19 KB
+\results\initial_diagnostic.json | 5.68 KB
