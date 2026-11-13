@@ -1,0 +1,90 @@
+{
+  "DISCOVERY": {
+    "trades": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 50.0,
+    "gross_profit": 4163.891546236825,
+    "gross_loss": 4401.143464319954,
+    "net_profit": -237.25191808312866,
+    "profit_factor": 0.9460931187527676,
+    "avg_win": 4163.891546236825,
+    "avg_loss": -4401.143464319954,
+    "expectancy": -118.62595904156433,
+    "max_drawdown": 4401.143464319954,
+    "max_losing_streak": 1,
+    "avg_holding_seconds": 86850.0,
+    "max_holding_seconds": 87300.0,
+    "total_commission": 401.1258969094131,
+    "total_slippage": 1764.9632819737449,
+    "net_before_cost": 163.87397882628466,
+    "net_after_cost": -237.25191808312866,
+    "trades_by_day": {
+      "2026-02-10": 1,
+      "2026-05-05": 1
+    },
+    "trades_by_instrument": {
+      "ETLN": 1,
+      "SMLT": 1
+    }
+  },
+  "VALIDATION": {
+    "trades": 3,
+    "wins": 0,
+    "losses": 3,
+    "win_rate": 0.0,
+    "gross_profit": 0,
+    "gross_loss": 17224.38933662565,
+    "net_profit": -17224.38933662565,
+    "profit_factor": 0.0,
+    "avg_win": 0.0,
+    "avg_loss": -5741.463112208549,
+    "expectancy": -5741.463112208549,
+    "max_drawdown": 17224.38933662565,
+    "max_losing_streak": 3,
+    "avg_holding_seconds": 86600.0,
+    "max_holding_seconds": 86700.0,
+    "total_commission": 590.1873584188967,
+    "total_slippage": 2596.7564358067166,
+    "net_before_cost": -16634.20197820675,
+    "net_after_cost": -17224.38933662565,
+    "trades_by_day": {
+      "2026-06-17": 1,
+      "2026-06-26": 2
+    },
+    "trades_by_instrument": {
+      "WUSH": 1,
+      "IVAT": 1,
+      "ETLN": 1
+    }
+  },
+  "OOS": {
+    "trades": 2,
+    "wins": 0,
+    "losses": 2,
+    "win_rate": 0.0,
+    "gross_profit": 0,
+    "gross_loss": 12817.065978336015,
+    "net_profit": -12817.065978336015,
+    "profit_factor": 0.0,
+    "avg_win": 0.0,
+    "avg_loss": -6408.532989168008,
+    "expectancy": -6408.532989168008,
+    "max_drawdown": 12817.065978336015,
+    "max_losing_streak": 2,
+    "avg_holding_seconds": 86400.0,
+    "max_holding_seconds": 86400.0,
+    "total_commission": 387.28849833600003,
+    "total_slippage": 1704.0174800000063,
+    "net_before_cost": -12429.777480000015,
+    "net_after_cost": -12817.065978336015,
+    "trades_by_day": {
+      "2026-10-15": 1,
+      "2026-10-22": 1
+    },
+    "trades_by_instrument": {
+      "WUSH": 1,
+      "SMLT": 1
+    }
+  }
+}

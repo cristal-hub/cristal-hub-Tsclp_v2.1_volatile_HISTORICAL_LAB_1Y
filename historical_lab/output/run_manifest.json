@@ -1,0 +1,14 @@
+{
+  "generated_at_utc": "2026-11-11T18:53:46.993286+00:00",
+  "start": "2025-11-10",
+  "end": "2026-11-10",
+  "scenarios": [
+    "base"
+  ],
+  "starting_balance": 1000000.0,
+  "profile": "CONSERVATIVE",
+  "period_boundaries": {
+    "discovery_end": "2026-05-11",
+    "validation_end": "2026-08-10"
+  }
+}

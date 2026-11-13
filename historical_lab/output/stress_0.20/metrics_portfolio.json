@@ -1,0 +1,35 @@
+{
+  "trades": 7,
+  "wins": 1,
+  "losses": 6,
+  "win_rate": 14.285714285714285,
+  "gross_profit": 4163.891546236825,
+  "gross_loss": 34442.598779281616,
+  "net_profit": -30278.70723304479,
+  "profit_factor": 0.1208936518675689,
+  "avg_win": 4163.891546236825,
+  "avg_loss": -5740.433129880269,
+  "expectancy": -4325.529604720685,
+  "max_drawdown": 34442.598779281616,
+  "max_losing_streak": 6,
+  "avg_holding_seconds": 86614.28571428571,
+  "max_holding_seconds": 87300.0,
+  "total_commission": 1378.6017536643099,
+  "total_slippage": 6065.737197780469,
+  "net_before_cost": -28900.105479380483,
+  "net_after_cost": -30278.70723304479,
+  "trades_by_day": {
+    "2026-02-10": 1,
+    "2026-05-05": 1,
+    "2026-06-17": 1,
+    "2026-06-26": 2,
+    "2026-10-15": 1,
+    "2026-10-22": 1
+  },
+  "trades_by_instrument": {
+    "ETLN": 2,
+    "SMLT": 2,
+    "WUSH": 2,
+    "IVAT": 1
+  }
+}
