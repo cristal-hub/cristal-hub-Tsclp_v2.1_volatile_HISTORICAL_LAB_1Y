@@ -1,0 +1,22 @@
+{
+  "generated_at_utc": "2026-11-11T17:08:29.483788+00:00",
+  "stage": "intraday",
+  "requested_start": "2025-11-10",
+  "requested_end": "2026-11-10",
+  "fetch_start": "2025-11-08T00:00:00+00:00",
+  "fetch_end": "2026-11-10T00:00:00+00:00",
+  "sdk_version": "1.51.0",
+  "top10_figis_count": 60,
+  "ok_count": 43,
+  "error_count": 0,
+  "resume_count": 17,
+  "total_requests": 2279,
+  "total_received": 2428562,
+  "total_saved": 2428562,
+  "total_skipped_incomplete": 0,
+  "limitations": [
+    "5-мин: макс. период одного запроса — 7 дней (недельная пагинация).",
+    "Только FIGI из rolling TOP-10 (объединение за период).",
+    "is_complete=False исключены."
+  ]
+}

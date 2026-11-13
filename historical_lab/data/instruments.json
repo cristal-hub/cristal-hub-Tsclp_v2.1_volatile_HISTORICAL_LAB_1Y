@@ -1,0 +1,7202 @@
+[
+  {
+    "figi": "BBG000PTLZD3",
+    "ticker": "VLHZ",
+    "name": "Владимирский хим завод",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC48081036",
+    "ticker": "GILD-RM",
+    "name": "GILEAD",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000BSCKB5",
+    "ticker": "KBSB",
+    "name": "ТНС энерго Кубань",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-26T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG000FJ81J0",
+    "ticker": "RZSB",
+    "name": "Рязанская энергетическая сбытовая компания",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-09T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC401W1099",
+    "ticker": "JEF-RM",
+    "name": "Jefferies Financial Group",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-14T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC19641097",
+    "ticker": "CLX-RM",
+    "name": "The Clorox Company",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-29T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC19871096",
+    "ticker": "UAL-RM",
+    "name": "United Airlines Holdings",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC989K1034",
+    "ticker": "ATUS-RM",
+    "name": "Optimum Communications, Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-30T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000J5X8M9",
+    "ticker": "KCHEP",
+    "name": "Камчатскэнерго - привилегированные акции",
+    "lot": 10000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC599X1063",
+    "ticker": "FDX-RM",
+    "name": "FedEx",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC30921038",
+    "ticker": "ELV-RM",
+    "name": "Elevance Health",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-10-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC52101083",
+    "ticker": "GPS-RM",
+    "name": "Gap",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC300V1061",
+    "ticker": "VTRS-RM",
+    "name": "Viatris Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-31T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S68CV8",
+    "ticker": "VSMO",
+    "name": "ВСМПО-АВИСМА",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2005-06-20T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000Q7ZZY2",
+    "ticker": "UNAC",
+    "name": "Объединенная авиастроительная корпорация",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2010-02-03T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC83601024",
+    "ticker": "CHD-RM",
+    "name": "Church & Dwight",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-19T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A10ANA1",
+    "ticker": "CNRU",
+    "name": "Циан",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2021-11-05T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG000MD2ST1",
+    "ticker": "TASB",
+    "name": "Тамбовская энергосбытовая компания",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-15T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A106YF0",
+    "ticker": "VKCO",
+    "name": "ВК",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2020-07-02T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC79321090",
+    "ticker": "PM-RM",
+    "name": "Philip Morris",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC74763075",
+    "ticker": "MSI-RM",
+    "name": "Motorola Solutions",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2026-03-23T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC47811089",
+    "ticker": "CC-RM",
+    "name": "Chemours Company",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-12T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC71271091",
+    "ticker": "BDX-RM",
+    "name": "Becton, Dickinson and Company",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-09T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000KGXMN1",
+    "ticker": "BISVP",
+    "name": "Башинформсвязь - Акции привилегированные",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG004RVFCY3",
+    "ticker": "MGNT",
+    "name": "Магнит",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2006-07-20T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS009124010",
+    "ticker": "KZIZ",
+    "name": "Красногорский завод им. С.А. Зверева",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2023-05-29T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC645E6023",
+    "ticker": "ISRG-RM",
+    "name": "Intuitive Surgical",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-29T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG0029SG1C1",
+    "ticker": "KZOSP",
+    "name": "Казаньоргсинтез - акции привилегированные",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2012-01-09T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC729X1054",
+    "ticker": "ORCL-RM",
+    "name": "Oracle",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A105EX7",
+    "ticker": "WUSH",
+    "name": "Whoosh",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2022-12-14T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC38731008",
+    "ticker": "XPO-RM",
+    "name": "XPO, Inc.",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-02T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A0JPP37",
+    "ticker": "UGLD",
+    "name": "Южуралзолото ГК",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2023-11-22T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG000NLK3N3",
+    "ticker": "MFGS",
+    "name": "Славнефть-Мегионнефтегаз",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-13T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC14461002",
+    "ticker": "CMS-RM",
+    "name": "CMS Energy Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2026-03-27T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC62591049",
+    "ticker": "KNX-RM",
+    "name": "Knight-Swift Transportation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-25T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A0JXNU8",
+    "ticker": "FLOT",
+    "name": "Совкомфлот",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2023-09-22T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC282F1030",
+    "ticker": "CLOV-RM",
+    "name": "Clover Health Investments, Corp.",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC53102064",
+    "ticker": "MKC-RM",
+    "name": "McCormick & Co",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-30T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG002458LF8",
+    "ticker": "SELG",
+    "name": "Селигдар",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2011-09-30T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG0028Z77G9",
+    "ticker": "RUSI",
+    "name": "РУСС-ИНВЕСТ",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-13T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC20441013",
+    "ticker": "KR-RM",
+    "name": "Kroger",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-01T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC49793076",
+    "ticker": "SONY-RM",
+    "name": "Sony Corp",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-29T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC145F1075",
+    "ticker": "REGN-RM",
+    "name": "Regeneron Pharmaceuticals",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-03T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS009086904",
+    "ticker": "SLAV",
+    "name": "Славнефть",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2023-09-12T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC312T1043",
+    "ticker": "BOX-RM",
+    "name": "Box Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2026-02-05T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG001CPLZX1",
+    "ticker": "DZRDP",
+    "name": "Донской завод радиодеталей - привилегированные акции",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A0JNXF9",
+    "ticker": "PRFN",
+    "name": "ЧЗПСН-Профнастил",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2012-10-25T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC423C8394",
+    "ticker": "V-RM",
+    "name": "Visa",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC443L1089",
+    "ticker": "BKNG-RM",
+    "name": "Booking",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-05-07T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A105NV2",
+    "ticker": "CARM",
+    "name": "КарМани",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2023-07-03T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC12371031",
+    "ticker": "DOW-RM",
+    "name": "Dow Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-30T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG008F2T3T2",
+    "ticker": "RUAL",
+    "name": "РУСАЛ",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2015-03-30T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG00BGKYH17",
+    "ticker": "NKHP",
+    "name": "НКХП",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2015-12-15T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A0F61T7",
+    "ticker": "TGKJ",
+    "name": "Форвард Энерго",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2023-04-26T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC455W1071",
+    "ticker": "SHLS-RM",
+    "name": "Shoals Technologies Group, Inc.",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-18T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC292P1084",
+    "ticker": "STZ-RM",
+    "name": "Constellation Brands",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-10-20T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC336M1062",
+    "ticker": "XRX-RM",
+    "name": "Xerox",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-11T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC825H1041",
+    "ticker": "OI-RM",
+    "name": "O-I Glass",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC913N1081",
+    "ticker": "NTNX-RM",
+    "name": "Nutanix Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC791M1027",
+    "ticker": "SFM-RM",
+    "name": "Sprouts Farmers Market Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-07T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000FJ6LN3",
+    "ticker": "VGSB",
+    "name": "Волгоградэнергосбыт",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-12T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC96751017",
+    "ticker": "MCD-RM",
+    "name": "McDonald’s",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC84491054",
+    "ticker": "DE-RM",
+    "name": "Deere & Company",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-18T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC656G1076",
+    "ticker": "COHR-RM",
+    "name": "Coherent Corp",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-24T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS6233Q1085",
+    "ticker": "XOMM-RM",
+    "name": "ExxonMobil Holdings Corporation ORD SHS",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2026-07-23T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC56171083",
+    "ticker": "LLY-RM",
+    "name": "Eli Lilly & Co",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-29T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S68B31",
+    "ticker": "ALRS",
+    "name": "АЛРОСА",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2011-11-30T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC62181081",
+    "ticker": "UNP-RM",
+    "name": "Union Pacific Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC94961038",
+    "ticker": "ROST-RM",
+    "name": "Ross Stores",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-22T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC762V1044",
+    "ticker": "SPGI-RM",
+    "name": "S&P Global",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC409W1027",
+    "ticker": "APPS-RM",
+    "name": "Digital Turbine Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC39801001",
+    "ticker": "INTC-RM",
+    "name": "Intel Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A107ER5",
+    "ticker": "DIAS",
+    "name": "Диасофт",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2024-02-13T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004RVFFC0",
+    "ticker": "TATN",
+    "name": "Татнефть",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2001-12-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC374H1005",
+    "ticker": "JPM-RM",
+    "name": "JPMorgan",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000R0L782",
+    "ticker": "DIOD",
+    "name": "ДИОД",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-09T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS009099006",
+    "ticker": "HIMCP",
+    "name": "Химпром ап",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-09T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC44052015",
+    "ticker": "TRIP-RM",
+    "name": "TripAdvisor",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-01T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC140V1061",
+    "ticker": "OGN-RM",
+    "name": "Organon & Co.",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-31T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC141N1019",
+    "ticker": "CMCSA-RM",
+    "name": "Comcast",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC288X1090",
+    "ticker": "FANG-RM",
+    "name": "Diamondback Energy Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC21861024",
+    "ticker": "FFIV-RM",
+    "name": "F5",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-09T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC269B1035",
+    "ticker": "SYF-RM",
+    "name": "Synchrony Financial",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-29T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000Q136G4",
+    "ticker": "KMEZ",
+    "name": "Ковровский механический завод",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC121W1080",
+    "ticker": "APP-RM",
+    "name": "AppLovin Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-03T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000NN26P0",
+    "ticker": "ZILL",
+    "name": "ЗИЛ",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS80A0JV532",
+    "ticker": "GRNT",
+    "name": "Городские Инновационные Технологии",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2023-09-11T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S682Z6",
+    "ticker": "RTKM",
+    "name": "Ростелеком",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2000-01-04T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC844R1086",
+    "ticker": "MET-RM",
+    "name": "MetLife",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-13T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC989H1095",
+    "ticker": "S-RM",
+    "name": "SentinelOne, Inc.",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-01T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS30A108JF7",
+    "ticker": "PRMD",
+    "name": "Промомед",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2024-07-12T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC14581091",
+    "ticker": "CARG-RM",
+    "name": "Cargurus Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-26T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000RG4ZQ4",
+    "ticker": "TGKN",
+    "name": "ТГК-14",
+    "lot": 100000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2007-06-09T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG00475KHX6",
+    "ticker": "TRNFP",
+    "name": "Транснефть - привилегированные акции",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2002-05-22T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A0ZZFU5",
+    "ticker": "DOMRF",
+    "name": "ДОМ.РФ",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2025-11-20T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC12691004",
+    "ticker": "TRMB-RM",
+    "name": "Trimble Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2026-03-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC650H1059",
+    "ticker": "COF-RM",
+    "name": "Capital One",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000VPC602",
+    "ticker": "KRSB",
+    "name": "Красноярскэнергосбыт",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-12T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC63972096",
+    "ticker": "BFB-RM",
+    "name": "Brown-Forman",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-20T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000CVM887",
+    "ticker": "JNOSP",
+    "name": "Славнефть ЯНОС - привилегированные акции",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-12T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG009CWKVN0",
+    "ticker": "TNSE",
+    "name": "ТНС энерго",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC17201014",
+    "ticker": "GT-RM",
+    "name": "Goodyear Tire & Rubber",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-31T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS009091300",
+    "ticker": "ZVEZ",
+    "name": "ЗВЕЗДА",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC765U1016",
+    "ticker": "A-RM",
+    "name": "Agilent Technologies",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-27T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG002BLR408",
+    "ticker": "NAUK",
+    "name": "НПО Наука",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG0018X73Z4",
+    "ticker": "MAGE",
+    "name": "Магаданэнерго",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC528L2043",
+    "ticker": "FOX-RM",
+    "name": "Twenty-First Century Fox",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-05T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG00PT8QHK7",
+    "ticker": "GEMA",
+    "name": "Гемабанк",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2019-07-26T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG000QFB4J6",
+    "ticker": "ZILLP",
+    "name": "ЗИЛ - акции привилегированные",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2023-08-02T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC405K1079",
+    "ticker": "GOOG-RM",
+    "name": "Alphabet Class C",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC77261029",
+    "ticker": "HD-RM",
+    "name": "The Home Depot",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS90A0JQUZ6",
+    "ticker": "RAGR",
+    "name": "РусАгро",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2014-12-01T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A1005A9",
+    "ticker": "SVETP",
+    "name": "Светофор Групп-ап",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2024-05-27T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000FJ8645",
+    "ticker": "ASSB",
+    "name": "Астраханская энергосбытовая компания",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-09T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG003NZBX32",
+    "ticker": "LVHK",
+    "name": "Левенгук",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS20A102093",
+    "ticker": "ELMT",
+    "name": "Элемент",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2024-06-06T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC12431055",
+    "ticker": "SCHW-RM",
+    "name": "The Charles Schwab Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-27T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC119V1044",
+    "ticker": "VZ-RM",
+    "name": "Verizon Communications",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC37741070",
+    "ticker": "LVS-RM",
+    "name": "Las Vegas Sands Corp",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000RTHVK7",
+    "ticker": "GCHE",
+    "name": "Группа Черкизово",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2008-05-19T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS90A0JVBT9",
+    "ticker": "UWGN",
+    "name": "ОВК",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T18:34:00+00:00"
+  },
+  {
+    "figi": "BBG000MD2WC0",
+    "ticker": "TASBP",
+    "name": "Тамбовская энергосбытовая компания - привилегированные акции",
+    "lot": 10000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-12T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S681M2",
+    "ticker": "SNGSP",
+    "name": "Сургутнефтегаз - привилегированные акции",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2000-01-04T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC56371004",
+    "ticker": "SRPT-RM",
+    "name": "Sarepta Therapeutics Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-29T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG002B9PYV7",
+    "ticker": "VJGZ",
+    "name": "Варьеганнефтегаз",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-12T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC77791011",
+    "ticker": "CLF-RM",
+    "name": "Cleveland-Cliffs",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC52431049",
+    "ticker": "MOMO-RM",
+    "name": "Hello Group",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC527M1027",
+    "ticker": "LI-RM",
+    "name": "Li Auto",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-29T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG002B24058",
+    "ticker": "BRZL",
+    "name": "Бурятзолото",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2011-12-13T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS40A10B5G8",
+    "ticker": "FIXR",
+    "name": "Фикс Прайс",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2021-03-10T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC52621055",
+    "ticker": "WDC-RM",
+    "name": "Western Digital",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000GQSRR5",
+    "ticker": "NKNC",
+    "name": "Нижнекамскнефтехим",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2008-04-07T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC46131018",
+    "ticker": "BEN-RM",
+    "name": "Franklin Resources",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-08T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC99631094",
+    "ticker": "MGY-RM",
+    "name": "Magnolia Oil & Gas Corp",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-12T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000BX7DH0",
+    "ticker": "VRSB",
+    "name": "ТНС энерго Воронеж",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-19T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC695P1075",
+    "ticker": "DOCS-RM",
+    "name": "Doximity, Inc.",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-16T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG0078NQQ09",
+    "ticker": "RDRB",
+    "name": "РосДорБанк",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2019-12-12T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC432R1023",
+    "ticker": "AT-RM",
+    "name": "AT&T",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-29T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000MFYK81",
+    "ticker": "MRSB",
+    "name": "Мордовская энергосбытовая компания",
+    "lot": 10000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-09T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC77571090",
+    "ticker": "ILMN-RM",
+    "name": "Illumina",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A0JRH43",
+    "ticker": "MBNK",
+    "name": "МТС-Банк",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2024-04-26T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC84091027",
+    "ticker": "CVNA-RM",
+    "name": "Carvana Co",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC26521065",
+    "ticker": "AA-RM",
+    "name": "Alcoa Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-29T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004730JJ5",
+    "ticker": "MOEX",
+    "name": "Московская Биржа",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2013-02-15T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG00226CJM0",
+    "ticker": "NFAZ",
+    "name": "НЕФАЗ",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-12T07:00:00+00:00"
+  },
+  {
+    "figi": "RU0007976957",
+    "ticker": "BANE",
+    "name": "Башнефть",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2023-09-22T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC88791059",
+    "ticker": "MCO-RM",
+    "name": "Moody's",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-08T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC52861009",
+    "ticker": "PVH-RM",
+    "name": "PVH",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-29T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG00FX0RGJ4",
+    "ticker": "SLEN",
+    "name": "Сахалинэнерго",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC175R1014",
+    "ticker": "TSLA-RM",
+    "name": "Tesla inc.",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC706G1022",
+    "ticker": "ZS-RM",
+    "name": "Zscaler Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-13T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC82381024",
+    "ticker": "AEE-RM",
+    "name": "Ameren",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-11T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC96451067",
+    "ticker": "AMZN-RM",
+    "name": "Amazon.com",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000JXYY95",
+    "ticker": "VRSBP",
+    "name": "ТНС энерго Воронеж - привилегированные акции",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-13T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC663C1045",
+    "ticker": "DBX-RM",
+    "name": "Dropbox Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC99501097",
+    "ticker": "VMC-RM",
+    "name": "Vulcan Materials",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-13T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC691U1097",
+    "ticker": "D-RM",
+    "name": "Dominion Energy Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-05T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC91661015",
+    "ticker": "WFC-RM",
+    "name": "Wells Fargo & Company",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS009084453",
+    "ticker": "NOMP",
+    "name": "Новошип",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2023-06-16T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG002B9T6Y1",
+    "ticker": "KAZTP",
+    "name": "КуйбышевАзот - Акции привилегированные",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-13T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC12341046",
+    "ticker": "GIS-RM",
+    "name": "General Mills",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-01T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC70841034",
+    "ticker": "TSN-RM",
+    "name": "Tyson Foods",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-29T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC52141051",
+    "ticker": "ADI-RM",
+    "name": "Analog Devices",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-05-05T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC556Y1064",
+    "ticker": "UNM-RM",
+    "name": "Unum",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-31T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG002Z691S1",
+    "ticker": "URKZ",
+    "name": "Уралкуз",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-13T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC81431013",
+    "ticker": "ALB-RM",
+    "name": "Albemarle",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-31T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000VDT2X4",
+    "ticker": "STSBP",
+    "name": "Ставропольэнергосбыт - привилегированные акции",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC91571029",
+    "ticker": "CAG-RM",
+    "name": "Conagra Brands",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG0047315D0",
+    "ticker": "SNGS",
+    "name": "Сургутнефтегаз",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2000-01-04T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG000Q7GJ60",
+    "ticker": "TGKBP",
+    "name": "ТГК-2 - акции привилегированные",
+    "lot": 100000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2007-06-09T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC59301011",
+    "ticker": "KOPN-RM",
+    "name": "Kopin Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-05T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC100L1017",
+    "ticker": "W-RM",
+    "name": "Wayfair Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2026-01-19T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC723P1005",
+    "ticker": "RF-RM",
+    "name": "Regions Financial",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-02T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC937L1098",
+    "ticker": "EQT-RM",
+    "name": "EQT Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004731354",
+    "ticker": "ROSN",
+    "name": "Роснефть",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2006-07-19T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC64201090",
+    "ticker": "TJX-RM",
+    "name": "TJX",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC431L1044",
+    "ticker": "CTVA-RM",
+    "name": "Corteva Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-05T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC89107026",
+    "ticker": "BRKB-RM",
+    "name": "Berkshire Hathaway",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-29T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A1002V2",
+    "ticker": "EUTR",
+    "name": "ЕвроТранс",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2023-11-21T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC787L2088",
+    "ticker": "SKLZ-RM",
+    "name": "Skillz Inc.",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-20T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC562T1060",
+    "ticker": "PPL-RM",
+    "name": "PPL",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC918Y1082",
+    "ticker": "CAH-RM",
+    "name": "Cardinal Health",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-06T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC94302037",
+    "ticker": "COTY-RM",
+    "name": "Coty",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000VKG4R5",
+    "ticker": "MRKU",
+    "name": "Россети Урал",
+    "lot": 10000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2008-09-11T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC328T1016",
+    "ticker": "AKAM-RM",
+    "name": "Akamai Technologies",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-05T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC251V1089",
+    "ticker": "OSUR-RM",
+    "name": "OraSure Technologies Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-31T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000RMWQD4",
+    "ticker": "ENPG",
+    "name": "Эн+",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2020-02-20T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC55513036",
+    "ticker": "FMC-RM",
+    "name": "FMC",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC553L1008",
+    "ticker": "DGX-RM",
+    "name": "Quest Diagnostics",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-21T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC55538298",
+    "ticker": "TDS-RM",
+    "name": "Telephone & Data Systems Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2026-02-10T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC945N1063",
+    "ticker": "YEXT-RM",
+    "name": "Yext Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-10-01T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC814R1023",
+    "ticker": "ROKU-RM",
+    "name": "Roku Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS80A107UL4",
+    "ticker": "T",
+    "name": "Т-Технологии",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2019-10-28T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS009102396",
+    "ticker": "UFOSP",
+    "name": "Уфаоргсинтез",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2023-04-10T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC27211084",
+    "ticker": "GEN-RM",
+    "name": "Gen Digital",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-31T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000PKWCQ7",
+    "ticker": "MRKV",
+    "name": "Россети Волга",
+    "lot": 10000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2008-09-09T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC409A1079",
+    "ticker": "ENPH-RM",
+    "name": "Enphase Energy Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-31T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC93931015",
+    "ticker": "MGM-RM",
+    "name": "MGM Resorts International",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-27T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC921P3038",
+    "ticker": "EXPE-RM",
+    "name": "Expedia",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-26T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC90591002",
+    "ticker": "RSG-RM",
+    "name": "Republic Services",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-27T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC25141061",
+    "ticker": "CPRT-RM",
+    "name": "Copart Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-08T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC20801014",
+    "ticker": "IBM-RM",
+    "name": "IBM",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC66375085",
+    "ticker": "NRG-RM",
+    "name": "NRG Energy",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-31T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000BBV4M5",
+    "ticker": "CNTL",
+    "name": "Центральный Телеграф",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2009-09-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC294A1097",
+    "ticker": "DHI-RM",
+    "name": "D.R. Horton",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS10A108K09",
+    "ticker": "VSEH",
+    "name": "ВИ.РУ",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2024-07-05T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC37971031",
+    "ticker": "STT-RM",
+    "name": "State Street",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC196B1017",
+    "ticker": "CNC-RM",
+    "name": "Centene Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S68JR8",
+    "ticker": "SVAV",
+    "name": "СОЛЛЕРС",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2005-05-14T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000V95X70",
+    "ticker": "MRKK",
+    "name": "МРСК Северного Кавказа",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC13601009",
+    "ticker": "KLAC-RM",
+    "name": "KLA-Tencor",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-05-02T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS009098131",
+    "ticker": "KRKOP",
+    "name": "Красный котельщик-ап-О",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-12T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC92581088",
+    "ticker": "PCAR-RM",
+    "name": "PACCAR",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-26T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000LNHHJ9",
+    "ticker": "KMAZ",
+    "name": "КАМАЗ",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2005-02-09T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC33921011",
+    "ticker": "SWK-RM",
+    "name": "Stanley Black & Decker",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-22T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG003C53JK1",
+    "ticker": "KUZB",
+    "name": "Кузнецкий Банк",
+    "lot": 10000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-09T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG0029SFXB3",
+    "ticker": "KZOS",
+    "name": "Казаньоргсинтез",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2011-12-05T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC19721009",
+    "ticker": "AMGN-RM",
+    "name": "Amgen",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC93241094",
+    "ticker": "SBUX-RM",
+    "name": "Starbucks Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC30241009",
+    "ticker": "EGHT-RM",
+    "name": "8x8 Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-14T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000F6YPH8",
+    "ticker": "ELFV",
+    "name": "ЭЛ5-Энерго",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2005-09-16T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC75151054",
+    "ticker": "OKTA-RM",
+    "name": "Okta Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-26T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC33564486",
+    "ticker": "MS-RM",
+    "name": "Morgan Stanley",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-29T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000CV9JM2",
+    "ticker": "OMZZP",
+    "name": "ОМЗ (Группа Уралмаш-Ижора) - привилегированные акции",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS20A107662",
+    "ticker": "HEAD",
+    "name": "Хэдхантер",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2020-09-25T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC48611073",
+    "ticker": "NYT-RM",
+    "name": "New York Times",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-11T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS50A10C1L6",
+    "ticker": "ETLN",
+    "name": "Эталон Груп",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2020-02-03T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC945F1049",
+    "ticker": "ICE-RM",
+    "name": "Intercontinental Exchange",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2026-02-02T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC11821010",
+    "ticker": "RL-RM",
+    "name": "Ralph Lauren",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-05T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC70661076",
+    "ticker": "PPG-RM",
+    "name": "PPG Industries",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-21T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG003LD1D92",
+    "ticker": "KGKCP",
+    "name": "Курганская генерирующая компания - привилегированные акции",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2019-01-04T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC28491069",
+    "ticker": "TFX-RM",
+    "name": "Teleflex Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-08T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC771L1017",
+    "ticker": "ZM-RM",
+    "name": "Zoom Video Communications Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG00F6NKQX3",
+    "ticker": "SMLT",
+    "name": "ГК Самолет",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2020-10-29T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC51871088",
+    "ticker": "KEY-RM",
+    "name": "KeyCorp",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC934L1098",
+    "ticker": "CHWY-RM",
+    "name": "Chewy Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-05T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC59191003",
+    "ticker": "TSM-RM",
+    "name": "Taiwan Semiconductor Manufacturing",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-29T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG005S5WCS4",
+    "ticker": "RGSS",
+    "name": "Росгосстрах",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC817W1080",
+    "ticker": "ES-RM",
+    "name": "Eversource Energy",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-10T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC61271076",
+    "ticker": "GDDY-RM",
+    "name": "GoDaddy Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2026-01-26T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004730N88",
+    "ticker": "SBER",
+    "name": "Сбербанк",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2000-01-04T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC74141071",
+    "ticker": "WYNN-RM",
+    "name": "Wynn Resorts",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-29T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000DG5L16",
+    "ticker": "YRSBP",
+    "name": "ТНС энерго Ярославль - привилегированные акции",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-23T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC43931070",
+    "ticker": "FSLR-RM",
+    "name": "First Solar",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A105BN4",
+    "ticker": "GECO",
+    "name": "Генетико",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2023-04-26T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC52291068",
+    "ticker": "MAS-RM",
+    "name": "Masco",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-26T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC29701051",
+    "ticker": "GLW-RM",
+    "name": "Corning",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC599F1049",
+    "ticker": "UPWK-RM",
+    "name": "Upwork Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-08T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC43881061",
+    "ticker": "SHW-RM",
+    "name": "Sherwin-Williams",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC33701022",
+    "ticker": "PRU-RM",
+    "name": "Prudential Financial",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-12T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC326G1040",
+    "ticker": "NVDA-RM",
+    "name": "NVIDIA",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC19751036",
+    "ticker": "QCOM-RM",
+    "name": "Qualcomm",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC439C1045",
+    "ticker": "COP-RM",
+    "name": "ConocoPhillips",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-30T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG001V474L5",
+    "ticker": "EELT",
+    "name": "Европейская Электротехника",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC67081088",
+    "ticker": "FI-RM",
+    "name": "Fiserv",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC13421030",
+    "ticker": "EBAY-RM",
+    "name": "eBay",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC888H1014",
+    "ticker": "WDAY-RM",
+    "name": "Workday Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC757V1008",
+    "ticker": "KDP-RM",
+    "name": "Keurig Dr Pepper",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-03T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004730RP0",
+    "ticker": "GAZP",
+    "name": "Газпром",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2006-01-23T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC23761052",
+    "ticker": "NUE-RM",
+    "name": "Nucor",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-27T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC89601029",
+    "ticker": "TER-RM",
+    "name": "Teradyne Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-29T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000QJW156",
+    "ticker": "BSPB",
+    "name": "Банк Санкт-Петербург",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2007-12-18T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000NLC9Z6",
+    "ticker": "LSNG",
+    "name": "Россети Ленэнерго",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2000-01-18T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG00QKJSX05",
+    "ticker": "RENI",
+    "name": "Ренессанс Страхование",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2021-10-21T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC591N1090",
+    "ticker": "CSGP-RM",
+    "name": "CoStar Group Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG00M8JQW11",
+    "ticker": "SVET",
+    "name": "Светофор Групп",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2021-01-18T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC44764062",
+    "ticker": "GEVO-RM",
+    "name": "Gevo",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS006334380",
+    "ticker": "VSYDP",
+    "name": "ВыбСудЗ ап",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-12T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A103X66",
+    "ticker": "POSI",
+    "name": "Группа Позитив",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2021-12-17T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG000NLB2G3",
+    "ticker": "KROT",
+    "name": "Красный Октябрь",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2006-01-31T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S684M6",
+    "ticker": "SIBN",
+    "name": "Газпром нефть",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "1999-09-06T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000DBD6F6",
+    "ticker": "KLSB",
+    "name": "Калужская сбытовая компания",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2006-03-09T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC36911082",
+    "ticker": "HWM-RM",
+    "name": "Howmet Aerospace",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC98891058",
+    "ticker": "OXY-RM",
+    "name": "Occidental Petroleum",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000RP8V70",
+    "ticker": "CHMK",
+    "name": "ЧМК",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2008-12-31T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC55801090",
+    "ticker": "RJF-RM",
+    "name": "Raymond James Financial",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-02T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC26661035",
+    "ticker": "IP-RM",
+    "name": "International Paper",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC31381011",
+    "ticker": "FLO-RM",
+    "name": "Flowers Foods, Inc.",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-10T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000TJ6F42",
+    "ticker": "MRKZ",
+    "name": "Россети Северо-Запад",
+    "lot": 10000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2008-09-04T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000K3STR7",
+    "ticker": "APTK",
+    "name": "Аптечная сеть 36,6",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2007-07-12T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC344U1060",
+    "ticker": "WEC-RM",
+    "name": "WEC Energy Group",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-26T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC10541005",
+    "ticker": "CVX-RM",
+    "name": "Chevron",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC77511037",
+    "ticker": "LUMN-RM",
+    "name": "Lumen Technologies",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-29T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC90611044",
+    "ticker": "EMR-RM",
+    "name": "Emerson Electric",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-01T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC813V1052",
+    "ticker": "SCCO-RM",
+    "name": "Southern Copper Corp",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-29T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG00475K2X9",
+    "ticker": "HYDR",
+    "name": "РусГидро",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2008-05-22T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG000VDT0D0",
+    "ticker": "STSB",
+    "name": "Ставропольэнергосбыт",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC65401046",
+    "ticker": "FRHC-RM",
+    "name": "Freedom Holding Corp/NV",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC83461081",
+    "ticker": "HSY-RM",
+    "name": "Hershey",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-12T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC685T1007",
+    "ticker": "UBER-RM",
+    "name": "Uber",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG002B9P9K4",
+    "ticker": "NKSH",
+    "name": "Нижнекамскшина",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-13T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC268B1070",
+    "ticker": "RVLV-RM",
+    "name": "Revolve Group Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-02T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC488P2020",
+    "ticker": "PLUG-RM",
+    "name": "Plug Power Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC69931003",
+    "ticker": "CI-RM",
+    "name": "Cigna",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-08T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC341V1026",
+    "ticker": "PAYC-RM",
+    "name": "Paycom Software Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-05T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC80111088",
+    "ticker": "LUV-RM",
+    "name": "Southwest Airlines",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-14T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG003LYCMB1",
+    "ticker": "SFIN",
+    "name": "ЭсЭфАй",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2015-12-11T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC96151057",
+    "ticker": "PNC-RM",
+    "name": "PNC Financial Services",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-08T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC856R1068",
+    "ticker": "BGS-RM",
+    "name": "B&G Foods Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC15651028",
+    "ticker": "AFL-RM",
+    "name": "Aflac Incorporated",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC16041064",
+    "ticker": "BWA-RM",
+    "name": "BorgWarner",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-11T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC231W1045",
+    "ticker": "KKR-RM",
+    "name": "KKR & Co. Inc.",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S68696",
+    "ticker": "RASP",
+    "name": "Распадская",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2007-01-10T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC60741000",
+    "ticker": "ABT-RM",
+    "name": "Abbott",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC807Q1094",
+    "ticker": "TFC-RM",
+    "name": "Truist Financial Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-05-06T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A10CTQ0",
+    "ticker": "BAZA",
+    "name": "ГК БАЗИС",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2025-12-10T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS009177281",
+    "ticker": "NOMPP",
+    "name": "Новошип - привилегированные акции",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2023-06-06T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC18971042",
+    "ticker": "MCHP-RM",
+    "name": "Microchip Technology",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-12T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC494W1036",
+    "ticker": "EDIT-RM",
+    "name": "Editas Medicine Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC45721085",
+    "ticker": "LNT-RM",
+    "name": "Alliant Energy",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-17T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000VQM8Q7",
+    "ticker": "CHKZ",
+    "name": "Челябинский кузнечно-прессовый завод",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-19T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC383F1049",
+    "ticker": "MTB-RM",
+    "name": "M&T Bank",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-13T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS10A0DJ9B4",
+    "ticker": "KFBA",
+    "name": "ИНГРАД",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2025-06-19T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004731489",
+    "ticker": "GMKN",
+    "name": "Норильский никель",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2006-12-26T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S686W0",
+    "ticker": "UPRO",
+    "name": "Юнипро",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2006-11-22T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A108LJ5",
+    "ticker": "APRI",
+    "name": "АПРИ",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2024-07-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC68031081",
+    "ticker": "NDAQ-RM",
+    "name": "Nasdaq",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S687W8",
+    "ticker": "MSNG",
+    "name": "Мосэнерго",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "1997-03-25T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S68614",
+    "ticker": "AFKS",
+    "name": "АФК Система",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2007-09-25T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC200S3031",
+    "ticker": "ULTA-RM",
+    "name": "Ulta Beauty",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-17T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000GVFKL9",
+    "ticker": "RTSBP",
+    "name": "ТНС энерго Ростов-на-Дону - привилегированные акции",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG000R607Y3",
+    "ticker": "PLZL",
+    "name": "Полюс",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2006-05-12T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC11781091",
+    "ticker": "PG-RM",
+    "name": "Procter & Gamble",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-29T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC664E1064",
+    "ticker": "TGT-RM",
+    "name": "Target",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000GQSRP7",
+    "ticker": "RTSB",
+    "name": "ТНС энерго Ростов-на-Дону",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A0ZZFS9",
+    "ticker": "LEAS",
+    "name": "Европлан",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2024-03-29T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC581V1026",
+    "ticker": "CNK-RM",
+    "name": "Cinemark Holdings Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-30T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000BDMZ51",
+    "ticker": "UTAR",
+    "name": "Utair",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC77321074",
+    "ticker": "FE-RM",
+    "name": "FirstEnergy",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-19T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC41501009",
+    "ticker": "ODFL-RM",
+    "name": "Old Dominion Freight Line Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000BTX3H2",
+    "ticker": "AVAN",
+    "name": "Авангард Банк",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-12T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC553M1045",
+    "ticker": "SEDG-RM",
+    "name": "SolarEdge Technologies Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC26361010",
+    "ticker": "ABNB-RM",
+    "name": "Airbnb, Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC572P1093",
+    "ticker": "YUMC-RM",
+    "name": "Yum China Holdings",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-29T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC96781057",
+    "ticker": "FNKO-RM",
+    "name": "Funko Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-08T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000R4K9Y2",
+    "ticker": "TUZA",
+    "name": "Туймазинский завод автобетоновозов",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-12T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC13031078",
+    "ticker": "AMD-RM",
+    "name": "AMD",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC399P1066",
+    "ticker": "JD-RM",
+    "name": "JD.com",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-29T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC96501044",
+    "ticker": "FAST-RM",
+    "name": "Fastenal Company",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-01T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG0027F0Y27",
+    "ticker": "CNTLP",
+    "name": "Центральный Телеграф - акции привилегированные",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC42781045",
+    "ticker": "MSFT-RM",
+    "name": "Microsoft Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC211A1060",
+    "ticker": "SNAP-RM",
+    "name": "Snap Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-29T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC75801054",
+    "ticker": "CFG-RM",
+    "name": "Citizens Financial Group",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC16291062",
+    "ticker": "NWL-RM",
+    "name": "Newell Brands",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-14T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC593L1070",
+    "ticker": "MTCH-RM",
+    "name": "Match Group Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2026-02-11T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC919L1061",
+    "ticker": "NFLX-RM",
+    "name": "Netflix",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC63271077",
+    "ticker": "BSX-RM",
+    "name": "Boston Scientific Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-29T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS80A10CW95",
+    "ticker": "OZON",
+    "name": "Озон",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2020-11-24T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC75281007",
+    "ticker": "BK-RM",
+    "name": "Bank of New York Mellon",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-01T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC741L2025",
+    "ticker": "DELL-RM",
+    "name": "Dell Technologies Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC902E1064",
+    "ticker": "AEO-RM",
+    "name": "American Eagle Outfitters Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-05T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC67371004",
+    "ticker": "WMB-RM",
+    "name": "The Williams Companies",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC24733048",
+    "ticker": "USB-RM",
+    "name": "US Bancorp",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC475P1003",
+    "ticker": "PD-RM",
+    "name": "Pagerduty Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-25T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS007940839",
+    "ticker": "KZIZP",
+    "name": "Красногорский завод им. С.А. Зверева - привилегированные акции",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2023-06-06T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC99701004",
+    "ticker": "AME-RM",
+    "name": "AMETEK",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-24T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC192R3030",
+    "ticker": "FNF-RM",
+    "name": "Fidelity National Financial, Inc.",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-07T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC830A1060",
+    "ticker": "ETSY-RM",
+    "name": "Etsy Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS10A0JR514",
+    "ticker": "LIFE",
+    "name": "Фармсинтез",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A108ZR8",
+    "ticker": "DATA",
+    "name": "Группа Аренадата",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2024-10-01T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC91961090",
+    "ticker": "PKG-RM",
+    "name": "Packaging Corp of America",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-31T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC69151046",
+    "ticker": "BAC-RM",
+    "name": "Bank of America Corp",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC476X1037",
+    "ticker": "BIIB-RM",
+    "name": "Biogen",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS8817C1071",
+    "ticker": "FLNA-RM",
+    "name": "Filana Therapeutics, Inc.",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-30T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000FWGSZ5",
+    "ticker": "IRKT",
+    "name": "Яковлев",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2004-03-09T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC92271060",
+    "ticker": "DIS-RM",
+    "name": "Walt Disney",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC400M1027",
+    "ticker": "PSTG-RM",
+    "name": "Everpure, Inc.",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-26T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC826K1079",
+    "ticker": "MRNA-RM",
+    "name": "Moderna Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-29T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A0JP922",
+    "ticker": "ROST",
+    "name": "Росинтер Ресторантс Холдинг",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG000RJL816",
+    "ticker": "TTLK",
+    "name": "Таттелеком",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2007-03-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS109100945",
+    "ticker": "BSPB",
+    "name": "Банк Санкт-Петербург",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2023-09-22T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC900L1052",
+    "ticker": "HPQ-RM",
+    "name": "HP",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC466W1027",
+    "ticker": "BABA-RM",
+    "name": "Alibaba",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000J1TPS9",
+    "ticker": "NNSB",
+    "name": "ТНС энерго Нижний Новгород",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-19T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC52581040",
+    "ticker": "TXN-RM",
+    "name": "Texas Instruments",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC22321039",
+    "ticker": "CL-RM",
+    "name": "Colgate-Palmolive",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC855W1053",
+    "ticker": "RUN-RM",
+    "name": "Sunrun Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A0ZZAC4",
+    "ticker": "SVCB",
+    "name": "Совкомбанк",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2023-12-15T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC890M1045",
+    "ticker": "COUR-RM",
+    "name": "Coursera, Inc.",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-14T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC75112062",
+    "ticker": "UA-RM",
+    "name": "Under Armour (C)",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000CV7ZG5",
+    "ticker": "SARE",
+    "name": "Саратовэнерго",
+    "lot": 10000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A107JE2",
+    "ticker": "GEMC",
+    "name": "ЮМГ",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2021-07-15T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC65181035",
+    "ticker": "CSX-RM",
+    "name": "CSX Corp",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-31T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S689R0",
+    "ticker": "PHOR",
+    "name": "ФосАгро",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2011-07-18T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC29261031",
+    "ticker": "NKE-RM",
+    "name": "NIKE",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A106XF2",
+    "ticker": "HNFG",
+    "name": "HENDERSON",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2023-11-02T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC72147849",
+    "ticker": "AIG-RM",
+    "name": "American International Group",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-29T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC85451048",
+    "ticker": "HIG-RM",
+    "name": "Hartford Financial Services",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-26T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS6609A1097",
+    "ticker": "OKEE-RM",
+    "name": "ONEOK, Inc. ORD SHS",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2026-09-21T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC27561014",
+    "ticker": "BBY-RM",
+    "name": "Best Buy Co.",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC370Y1091",
+    "ticker": "ABBV-RM",
+    "name": "AbbVie",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC656R1023",
+    "ticker": "CSCO-RM",
+    "name": "Cisco",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000DG57V4",
+    "ticker": "YRSB",
+    "name": "ТНС энерго Ярославль",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-04-10T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC988C1045",
+    "ticker": "CARR-RM",
+    "name": "Carrier Global",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-05T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S68829",
+    "ticker": "TATNP",
+    "name": "Татнефть - привилегированные акции",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2007-07-12T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC57451036",
+    "ticker": "ADP-RM",
+    "name": "Automatic Data Processing",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-29T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000NLB601",
+    "ticker": "KROTP",
+    "name": "Красный Октябрь - привилегированные акции",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S68507",
+    "ticker": "MAGN",
+    "name": "Магнитогорский металлургический комбинат",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2006-03-09T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG004730ZJ9",
+    "ticker": "VTBR",
+    "name": "Банк ВТБ",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2007-05-28T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC536E1082",
+    "ticker": "EW-RM",
+    "name": "Edwards Lifesciences",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-07T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC180B1035",
+    "ticker": "ZIP-RM",
+    "name": "ZipRecruiter Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2026-02-02T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC994L1035",
+    "ticker": "DDOG-RM",
+    "name": "Datadog Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-26T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC443F1049",
+    "ticker": "ZI-RM",
+    "name": "ZoomInfo Technologies Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-17T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC74513071",
+    "ticker": "TM-RM",
+    "name": "Toyota Motor Corp",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-29T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC496P1049",
+    "ticker": "M-RM",
+    "name": "Macy's",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-29T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000TG6T57",
+    "ticker": "WTCM",
+    "name": "Центр международной торговли",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-09T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC170V1070",
+    "ticker": "OTIS-RM",
+    "name": "Otis Worldwide",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-06T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC33071078",
+    "ticker": "SFIX-RM",
+    "name": "Stitch Fix",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-19T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC944N1019",
+    "ticker": "EXC-RM",
+    "name": "Exelon Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-06T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC586H1077",
+    "ticker": "ORLY-RM",
+    "name": "O'Reilly Automotive",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-08T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC17051057",
+    "ticker": "PANW-RM",
+    "name": "Palo Alto Networks",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-07T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC39601040",
+    "ticker": "TMUS-RM",
+    "name": "T-Mobile US Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-01T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC78471059",
+    "ticker": "DG-RM",
+    "name": "Dollar General",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC43071071",
+    "ticker": "SO-RM",
+    "name": "Southern",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC893G1040",
+    "ticker": "GS-RM",
+    "name": "Goldman Sachs",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-29T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC27091066",
+    "ticker": "NEM-RM",
+    "name": "Newmont Goldcorp Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S686N0",
+    "ticker": "BANEP",
+    "name": "Башнефть - привилегированные акции",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2011-11-18T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC20721010",
+    "ticker": "CINF-RM",
+    "name": "Cincinnati Financial Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-01T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC164E1091",
+    "ticker": "TRV-RM",
+    "name": "Travelers Cos",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG00172J7S9",
+    "ticker": "OKEY",
+    "name": "O'Key Group SA",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2020-12-14T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC46841053",
+    "ticker": "DRI-RM",
+    "name": "Darden Restaurants",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-03T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC717W1009",
+    "ticker": "PTON-RM",
+    "name": "Peloton Interactive Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000VG1034",
+    "ticker": "MRKP",
+    "name": "Россети Центр и Приволжье",
+    "lot": 10000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2008-04-08T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC53741094",
+    "ticker": "TTWO-RM",
+    "name": "Take-Two Interactive Software",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000R04X57",
+    "ticker": "FLOT",
+    "name": "Совкомфлот",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2020-10-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC504J1034",
+    "ticker": "NOV-RM",
+    "name": "National Oilwell Varco",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2026-02-26T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000P69JH9",
+    "ticker": "KCHE",
+    "name": "Камчатскэнерго",
+    "lot": 10000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-13T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC271T1079",
+    "ticker": "CNP-RM",
+    "name": "CenterPoint Energy",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-19T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000RK0SD9",
+    "ticker": "UKUZ",
+    "name": "Южный Кузбасс",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-09T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS10A0JNAB6",
+    "ticker": "ABIO",
+    "name": "Артген",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC498R1023",
+    "ticker": "AAL-RM",
+    "name": "American Airlines Group",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC10971026",
+    "ticker": "URBN-RM",
+    "name": "Urban Outfitters",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-08T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC35351084",
+    "ticker": "ACAD-RM",
+    "name": "ACADIA Pharmaceuticals Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-18T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC557D8570",
+    "ticker": "FCX-RM",
+    "name": "Freeport-McMoRan",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC764V1098",
+    "ticker": "QS-RM",
+    "name": "QuantumScape Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC589Q1004",
+    "ticker": "KD-RM",
+    "name": "Kyndryl Holdings",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-29T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000V07CB8",
+    "ticker": "DVEC",
+    "name": "ДЭК",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2007-12-13T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC87771054",
+    "ticker": "ZBRA-RM",
+    "name": "Zebra Technologies Corp",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-08T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC20701027",
+    "ticker": "KMX-RM",
+    "name": "CarMax",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-01T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000PQYM17",
+    "ticker": "YKENP",
+    "name": "Якутскэнерго - привилегированные акции",
+    "lot": 10000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS108959580",
+    "ticker": "KMAZ",
+    "name": "КАМАЗ",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2023-09-22T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC694Y1001",
+    "ticker": "VLO-RM",
+    "name": "Valero Energy Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-30T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000CV8026",
+    "ticker": "SAREP",
+    "name": "Саратовэнерго - привилегированные акции",
+    "lot": 10000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-09T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A107RM8",
+    "ticker": "ZAYM",
+    "name": "Займер",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2024-04-12T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S681W1",
+    "ticker": "MTSS",
+    "name": "МТС",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2004-02-11T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC445C1018",
+    "ticker": "HCA-RM",
+    "name": "HCA Healthcare",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-24T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A109B25",
+    "ticker": "OZPH",
+    "name": "Озон Фармацевтика",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2024-10-17T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC14201043",
+    "ticker": "TAL-RM",
+    "name": "TAL Education Group",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC75111090",
+    "ticker": "SRE-RM",
+    "name": "Sempra",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC293F1093",
+    "ticker": "WISH-RM",
+    "name": "ContextLogic Holdings",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-01T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC76991074",
+    "ticker": "HYLN-RM",
+    "name": "Hyliion Holdings Corp.",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC751W1036",
+    "ticker": "VIPS-RM",
+    "name": "Vipshop",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC617B1008",
+    "ticker": "XEL-RM",
+    "name": "Xcel Energy",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-26T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG00475JZZ6",
+    "ticker": "FEES",
+    "name": "ФСК Россети",
+    "lot": 10000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2008-07-16T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC31291001",
+    "ticker": "CF-RM",
+    "name": "CF Industries Holdings",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A0HG6Z8",
+    "ticker": "OBNE",
+    "name": "Обьнефтегазгеология",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2023-09-04T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG000R41LN8",
+    "ticker": "KOGK",
+    "name": "Коршуновский ГОК",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-14T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC451D1046",
+    "ticker": "NTAP-RM",
+    "name": "NetApp",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-02T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000MZL0Y6",
+    "ticker": "PMSB",
+    "name": "Пермэнергосбыт",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2006-04-24T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000VBMPW5",
+    "ticker": "ARSA",
+    "name": "Арсагера",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-12T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A10CRQ4",
+    "ticker": "GLRX",
+    "name": "Глоракс",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2025-10-31T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC32752091",
+    "ticker": "AOS-RM",
+    "name": "A. O. Smith Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-06T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS10A0JR6A6",
+    "ticker": "RBCM",
+    "name": "РБК",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2011-01-19T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG002B9WQ73",
+    "ticker": "VJGZP",
+    "name": "Варьеганнефтегаз - привилегированные акции",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-13T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC23551041",
+    "ticker": "ED-RM",
+    "name": "Consolidated Edison",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-06T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC117C1053",
+    "ticker": "CRWD-RM",
+    "name": "Crowdstrike Holdings Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC80261015",
+    "ticker": "DAR-RM",
+    "name": "Darling Ingredients Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-29T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC66231068",
+    "ticker": "DOCU-RM",
+    "name": "DocuSign Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-01T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S687G6",
+    "ticker": "MSRS",
+    "name": "Россети Московский регион",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2006-02-15T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC744G1067",
+    "ticker": "PBF-RM",
+    "name": "PBF Energy Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-22T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC34322072",
+    "ticker": "BIO-RM",
+    "name": "Bio-Rad Laboratories Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2026-03-19T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S68473",
+    "ticker": "IRAO",
+    "name": "Интер РАО",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2008-07-17T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC264B2097",
+    "ticker": "CLSK-RM",
+    "name": "Cleanspark Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-29T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC84911072",
+    "ticker": "IT-RM",
+    "name": "Gartner",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-11T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC43711014",
+    "ticker": "VNT-RM",
+    "name": "Vontier Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC405W1062",
+    "ticker": "EVRG-RM",
+    "name": "Evergy, Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-06T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG002BCQK67",
+    "ticker": "NSVZ",
+    "name": "Наука-Связь",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2011-12-15T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC918E1091",
+    "ticker": "FTNT-RM",
+    "name": "Fortinet Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-01T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC328W2098",
+    "ticker": "CHRW-RM",
+    "name": "C.H. Robinson Worldwide",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-29T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC703L1089",
+    "ticker": "TSPH-RM",
+    "name": "TuSimple Holdings",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-01T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS20A0J2QG8",
+    "ticker": "BLNG",
+    "name": "Белон",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2007-04-25T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG001CPLYK8",
+    "ticker": "DZRD",
+    "name": "Донской завод радиодеталей",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-09T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC248L1098",
+    "ticker": "WM-RM",
+    "name": "Waste Management",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-31T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS03A108X38",
+    "ticker": "X5",
+    "name": "Корпоративный Центр Икс 5",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-02-01T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC502C1009",
+    "ticker": "PTC-RM",
+    "name": "PTC Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC37264058",
+    "ticker": "SJM-RM",
+    "name": "JM Smucker",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-29T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG00475KKY8",
+    "ticker": "NVTK",
+    "name": "НОВАТЭК",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2004-12-30T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC55031091",
+    "ticker": "ROK-RM",
+    "name": "Rockwell Automation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2026-03-23T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC656H1086",
+    "ticker": "SONO-RM",
+    "name": "SONOS INC",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-24T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG002YFXL29",
+    "ticker": "UNKL",
+    "name": "ЮУНК",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2012-05-02T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC78291064",
+    "ticker": "OMC-RM",
+    "name": "Omnicom Group",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-19T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC92281059",
+    "ticker": "CTAS-RM",
+    "name": "Cintas",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-17T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC11031099",
+    "ticker": "BAX-RM",
+    "name": "Baxter International",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000W325F7",
+    "ticker": "AQUA",
+    "name": "ИНАРКТИКА",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-09T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC531U1016",
+    "ticker": "U-RM",
+    "name": "Unity Software",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC24941064",
+    "ticker": "KHC-RM",
+    "name": "Kraft Heinz",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC583A1051",
+    "ticker": "TDOC-RM",
+    "name": "Teladoc Health Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC38221083",
+    "ticker": "BMY-RM",
+    "name": "Bristol-Myers Squibb",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC749F1012",
+    "ticker": "AVGO-RM",
+    "name": "Broadcom",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC940L1061",
+    "ticker": "PINS-RM",
+    "name": "Pinterest Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG002B2J6C1",
+    "ticker": "KRKN",
+    "name": "Саратовский нефтеперерабатывающий завод",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-12T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC15361023",
+    "ticker": "TMO-RM",
+    "name": "Thermo Fisher Scientific",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-01T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004Z2RGW8",
+    "ticker": "ROLO",
+    "name": "Русолово",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2013-08-13T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC381F1003",
+    "ticker": "VRTX-RM",
+    "name": "Vertex Pharmaceuticals",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC715A2006",
+    "ticker": "VXRT-RM",
+    "name": "Vaxart Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-17T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000RK52V1",
+    "ticker": "OGKB",
+    "name": "Вторая генерирующая компания оптового рынка электроэнергии",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2007-06-22T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC92721098",
+    "ticker": "WU-RM",
+    "name": "Western Union",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC10561020",
+    "ticker": "HRTX-RM",
+    "name": "Heron Therapeutics Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000NT5184",
+    "ticker": "MGTS",
+    "name": "МГТС",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC50921001",
+    "ticker": "HRL-RM",
+    "name": "Hormel Foods",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-25T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A108ZX6",
+    "ticker": "LMBZ",
+    "name": "Ламбумиз",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2024-10-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC74511063",
+    "ticker": "CMI-RM",
+    "name": "Cummins",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-05-02T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC97611025",
+    "ticker": "MAT-RM",
+    "name": "Mattel",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-24T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC27861040",
+    "ticker": "PSX-RM",
+    "name": "Phillips 66",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC80221039",
+    "ticker": "WMT-RM",
+    "name": "Wal-Mart Stores",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC16581068",
+    "ticker": "APD-RM",
+    "name": "Air Products & Chemicals",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-18T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000VPC6Y5",
+    "ticker": "KRSBP",
+    "name": "Красноярскэнергосбыт - привилегированные акции",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-12T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A0JPGA0",
+    "ticker": "MVID",
+    "name": "М.Видео",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2023-09-22T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG009GSYN76",
+    "ticker": "CBOM",
+    "name": "МКБ",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2015-07-01T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG002W2FT69",
+    "ticker": "ABRD",
+    "name": "АбрауДюрсо",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC812P1057",
+    "ticker": "PATH-RM",
+    "name": "UiPath, Inc.",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-21T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC58771012",
+    "ticker": "FIVN-RM",
+    "name": "Five9 Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-25T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC97591092",
+    "ticker": "ALK-RM",
+    "name": "Alaska Air Group",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-31T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC186A1025",
+    "ticker": "MPC-RM",
+    "name": "Marathon Petroleum",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-31T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004TC84Z8",
+    "ticker": "TRMK",
+    "name": "Трубная Металлургическая Компания",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2007-04-18T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC91201006",
+    "ticker": "CVS-RM",
+    "name": "CVS Health Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A0ZZBC2",
+    "ticker": "SOFL",
+    "name": "Софтлайн",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2023-09-25T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS10A102XG9",
+    "ticker": "SGZH",
+    "name": "Сегежа",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2023-09-22T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG002B2J5X0",
+    "ticker": "KRKNP",
+    "name": "Саратовский НПЗ - акции привилегированные",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2011-12-15T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG00475K6C3",
+    "ticker": "CHMF",
+    "name": "Северсталь",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2005-09-29T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC85101060",
+    "ticker": "BILI-RM",
+    "name": "Bilibili Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC43601007",
+    "ticker": "IOVA-RM",
+    "name": "Iovance Biotherapeutics Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000NLDS29",
+    "ticker": "SAGO",
+    "name": "Самараэнерго",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-13T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC718E2046",
+    "ticker": "SLDB-RM",
+    "name": "Solid Biosciences",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000GQSVC2",
+    "ticker": "NKNCP",
+    "name": "Нижнекамскнефтехим (привилегированные)",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2008-04-18T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A0HG602",
+    "ticker": "OBNEP",
+    "name": "Обьнефтегазгеология - привилегированные акции",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2023-09-11T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC243G1031",
+    "ticker": "ETR-RM",
+    "name": "Entergy Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-10T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC45091009",
+    "ticker": "STLD-RM",
+    "name": "Steel Dynamics Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-05T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC54208600",
+    "ticker": "F-RM",
+    "name": "Ford",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC941C1062",
+    "ticker": "AMP-RM",
+    "name": "Ameriprise Financial",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS509084438",
+    "ticker": "EVRZ",
+    "name": "Акции обыкновенные ЕВРАЗ НТМК",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2026-05-19T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S68C39",
+    "ticker": "LSRG",
+    "name": "Группа ЛСР",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2007-11-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS10A105EX7",
+    "ticker": "WUSH",
+    "name": "Whoosh",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2023-09-22T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC87061007",
+    "ticker": "KO-RM",
+    "name": "COCA-COLA",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC12281035",
+    "ticker": "KMB-RM",
+    "name": "Kimberly-Clark",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-31T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC29442042",
+    "ticker": "SAP-RM",
+    "name": "АДР SAP",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-31T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC937Q1022",
+    "ticker": "OVV-RM",
+    "name": "Ovintiv Inc.",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-01T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000DD65R9",
+    "ticker": "MISB",
+    "name": "ТНС энерго Марий Эл",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-21T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC297G1004",
+    "ticker": "MSCI-RM",
+    "name": "MSCI Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2026-02-20T00:00:00+00:00"
+  },
+  {
+    "figi": "TCST0A105EX7",
+    "ticker": "WUSH",
+    "name": "Whoosh",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2022-12-14T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC29771022",
+    "ticker": "MUR-RM",
+    "name": "Murphy Oil",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC990H1059",
+    "ticker": "AES-RM",
+    "name": "The AES Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-01T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC528K1051",
+    "ticker": "COST-RM",
+    "name": "Costco Wholesale",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC12461092",
+    "ticker": "AXP-RM",
+    "name": "American Express",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A0ZYHF5",
+    "ticker": "GAZAP",
+    "name": "ГАЗ ап",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-30T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S685M3",
+    "ticker": "RTKMP",
+    "name": "Ростелеком - Привилегированные акции",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "1997-07-15T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC99161023",
+    "ticker": "CTSH-RM",
+    "name": "Cognizant Technology Solutions",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-18T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC248M1071",
+    "ticker": "NET-RM",
+    "name": "CloudFlare Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-05T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC83031005",
+    "ticker": "AAPL-RM",
+    "name": "Apple",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC67721014",
+    "ticker": "ALL-RM",
+    "name": "The Allstate Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-19T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000MDCJV7",
+    "ticker": "TORS",
+    "name": "Томская распределительная компания",
+    "lot": 10000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-12T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC614V1098",
+    "ticker": "NVS-RM",
+    "name": "Novartis AG",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-06T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC59821034",
+    "ticker": "INTU-RM",
+    "name": "Intuit",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-26T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC649V1008",
+    "ticker": "FSLY-RM",
+    "name": "Fastly Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-31T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC809V1061",
+    "ticker": "IR-RM",
+    "name": "Ingersoll-Rand",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-29T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC732Q1040",
+    "ticker": "EXEL-RM",
+    "name": "Exelixis Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-01T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000PZ0833",
+    "ticker": "MGTSP",
+    "name": "МГТС - акции привилегированные",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2007-07-12T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC20961017",
+    "ticker": "HAL-RM",
+    "name": "Halliburton",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A107KX0",
+    "ticker": "KLVZ",
+    "name": "Кристалл",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2024-02-22T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG002B2JCL8",
+    "ticker": "IGSTP",
+    "name": "Ижсталь - привилегированные акции",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-09T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC94401045",
+    "ticker": "HBAN-RM",
+    "name": "Huntington Bancshares",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-30T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG002B2JF59",
+    "ticker": "IGST",
+    "name": "Ижсталь",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-12T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC79074242",
+    "ticker": "C-RM",
+    "name": "Citigroup",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC790C1027",
+    "ticker": "INCY-RM",
+    "name": "Incyte",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-02T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG00R4Z2NT4",
+    "ticker": "VEON-RX",
+    "name": "VEON",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2021-11-26T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS002614686",
+    "ticker": "NTZL",
+    "name": "НИТЕЛ",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2023-04-13T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC746Y1038",
+    "ticker": "PYPL-RM",
+    "name": "PayPal Holdings",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000NLDYT7",
+    "ticker": "SAGOP",
+    "name": "Самараэнерго - привилегированные акции",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-13T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A107T19",
+    "ticker": "YDEX",
+    "name": "Яндекс",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2014-06-04T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC27781030",
+    "ticker": "MTG-RM",
+    "name": "MGIC Investment Corp",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-26T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS006334372",
+    "ticker": "VSYD",
+    "name": "ВыбСудЗ",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC69191078",
+    "ticker": "SYY-RM",
+    "name": "Sysco",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-03T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC53717023",
+    "ticker": "DAL-RM",
+    "name": "Delta Air Lines",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC501Y1055",
+    "ticker": "MRK-RM",
+    "name": "Merck",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S68758",
+    "ticker": "BANE",
+    "name": "Башнефть",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2011-11-18T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S683W7",
+    "ticker": "AFLT",
+    "name": "Аэрофлот",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2000-01-04T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC73311035",
+    "ticker": "PFE-RM",
+    "name": "Pfizer",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC629D1046",
+    "ticker": "IDXX-RM",
+    "name": "IDEXX",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2026-02-20T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC48831005",
+    "ticker": "FITB-RM",
+    "name": "Fifth Third Bancorp",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-05T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000DD66T5",
+    "ticker": "MISBP",
+    "name": "ТНС энерго Марий Эл - привилегированные акции",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-14T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC41051039",
+    "ticker": "PGR-RM",
+    "name": "Progressive",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-01T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC727Y1010",
+    "ticker": "MMM-RM",
+    "name": "3M Company",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC30301041",
+    "ticker": "BBWI-RM",
+    "name": "Bath & Body Works",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-05T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC921F1012",
+    "ticker": "ADBE-RM",
+    "name": "Adobe",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC690P1093",
+    "ticker": "EHTH-RM",
+    "name": "eHealth Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC561C1080",
+    "ticker": "PCG-RM",
+    "name": "PG&E",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC76621004",
+    "ticker": "IONS-RM",
+    "name": "Ionis Pharmaceuticals Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-18T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC691Q1058",
+    "ticker": "CME-RM",
+    "name": "CME GROUP",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-20T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC51641012",
+    "ticker": "SNA-RM",
+    "name": "Snap-on",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC914W3007",
+    "ticker": "VUZI-RM",
+    "name": "Vuzix Corp",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-26T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC82881093",
+    "ticker": "ITW-RM",
+    "name": "Illinois Tool Works",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-27T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S68CP5",
+    "ticker": "MVID",
+    "name": "М.Видео",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2007-11-06T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC78401055",
+    "ticker": "GPC-RM",
+    "name": "Genuine Parts",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-03T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC18301058",
+    "ticker": "ATO-RM",
+    "name": "Atmos Energy Corp",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-29T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000TG6VR8",
+    "ticker": "WTCMP",
+    "name": "Центр международной торговли - привилегированные акции",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-16T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC74131020",
+    "ticker": "ADM-RM",
+    "name": "Archer-Daniels-Midland Company",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000NLL888",
+    "ticker": "MFGSP",
+    "name": "Славнефть-Мегионнефтегаз - привилегированные акции",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-09T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS209083240",
+    "ticker": "PAZA",
+    "name": "Павловский автобус",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-15T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC811G1004",
+    "ticker": "BKR-RM",
+    "name": "Baker Hughes",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC322K1051",
+    "ticker": "DASH-RM",
+    "name": "DoorDash",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-01T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC572P1021",
+    "ticker": "ZBH-RM",
+    "name": "Zimmer Biomet Holdings",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-24T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC477F1012",
+    "ticker": "NEE-RM",
+    "name": "NextEra Energy",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC74201092",
+    "ticker": "DT-RM",
+    "name": "Dynatrace Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-02T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000HJXDM0",
+    "ticker": "YKEN",
+    "name": "Якутскэнерго",
+    "lot": 10000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG000MZL2S9",
+    "ticker": "PMSBP",
+    "name": "Пермэнергосбыт - акции привилегированные",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2007-02-19T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S68DD6",
+    "ticker": "MSTT",
+    "name": "Мостотрест",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG000BY39G2",
+    "ticker": "USBN",
+    "name": "Банк УРАЛСИБ",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S68598",
+    "ticker": "MTLR",
+    "name": "Мечел",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2008-12-31T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC416M1062",
+    "ticker": "FIS-RM",
+    "name": "Fidelity National Information",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-17T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC10311074",
+    "ticker": "DXCM-RM",
+    "name": "DexCom Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC64424083",
+    "ticker": "MSTR-RM",
+    "name": "Strategy Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A108GD8",
+    "ticker": "IVAT",
+    "name": "IVA Technologies",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2024-06-04T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S688G4",
+    "ticker": "AKRN",
+    "name": "Акрон",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2006-11-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00Y3XYV94",
+    "ticker": "MDMG",
+    "name": "Мать и дитя",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2020-11-09T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC46632022",
+    "ticker": "MAR-RM",
+    "name": "Marriott International",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-05-21T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC87171087",
+    "ticker": "CDNS-RM",
+    "name": "Cadence Design Systems",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-05-05T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG0047315Y7",
+    "ticker": "SBERP",
+    "name": "Сбербанк - привилегированные акции",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2000-01-04T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC38941080",
+    "ticker": "VFC-RM",
+    "name": "VF",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-10T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC469P1021",
+    "ticker": "UNH-RM",
+    "name": "UnitedHealth",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG0063FKTD9",
+    "ticker": "LENT",
+    "name": "Лента",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2021-12-14T07:00:00+00:00"
+  },
+  {
+    "figi": "RU000A106T36",
+    "ticker": "ASTR",
+    "name": "Группа Астра",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2023-10-13T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC516B1017",
+    "ticker": "KMI-RM",
+    "name": "Kinder Morgan",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-30T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000LWNRP3",
+    "ticker": "RKKE",
+    "name": "РКК Энергия им.С.П.Королева",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2008-06-11T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC827Q1085",
+    "ticker": "APA-RM",
+    "name": "APA Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-29T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC139P1021",
+    "ticker": "NOW-RM",
+    "name": "ServiceNow Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-02T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000VH7TZ8",
+    "ticker": "MRKC",
+    "name": "Россети Центр",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2008-08-18T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG001BBFTQ2",
+    "ticker": "KGKC",
+    "name": "Курганская генерирующая компания",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2018-03-28T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC125J1051",
+    "ticker": "NTLA-RM",
+    "name": "Intellia Therapeutics Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2026-01-22T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC238J1051",
+    "ticker": "TTD-RM",
+    "name": "Trade Desk Inc/The",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC761N1000",
+    "ticker": "ALLY-RM",
+    "name": "Ally Financial Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-14T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG002B9MYC1",
+    "ticker": "KAZT",
+    "name": "КуйбышевАзот",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC873F1021",
+    "ticker": "TWLO-RM",
+    "name": "Twilio Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS170461096",
+    "ticker": "CROX-RM",
+    "name": "Crocs Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG002B298N6",
+    "ticker": "YAKG",
+    "name": "ЯТЭК",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-09T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG000Q7GG57",
+    "ticker": "TGKB",
+    "name": "ТГК-2",
+    "lot": 1000000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2007-01-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC938W1036",
+    "ticker": "TDC-RM",
+    "name": "Teradata",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-11T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC46901077",
+    "ticker": "EIX-RM",
+    "name": "Edison International",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-29T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG00F9XX7H4",
+    "ticker": "RNFT",
+    "name": "РуссНефть",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2016-11-25T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG001P1VKH0",
+    "ticker": "PRMB",
+    "name": "Приморье Банк",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-05-24T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC90701046",
+    "ticker": "JNJ-RM",
+    "name": "Johnson & Johnson",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC23111052",
+    "ticker": "HRB-RM",
+    "name": "H&R Block",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-01T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC69661097",
+    "ticker": "AJG-RM",
+    "name": "Arthur J. Gallagher & Co",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2026-01-22T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A0HL5M1",
+    "ticker": "BELU",
+    "name": "Novabev Group",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2023-09-22T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS03A0ZYD22",
+    "ticker": "GTRK",
+    "name": "ГТМ",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2017-11-03T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC414L3024",
+    "ticker": "CRM-RM",
+    "name": "Salesforce",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC579C1099",
+    "ticker": "HPE-RM",
+    "name": "Hewlett Packard Enterprise",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC74841036",
+    "ticker": "SQ-RM",
+    "name": "Block",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC21821086",
+    "ticker": "HOG-RM",
+    "name": "Harley-Davidson",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-26T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S681B4",
+    "ticker": "NLMK",
+    "name": "НЛМК",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2006-04-18T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG000TY1CD1",
+    "ticker": "BELU",
+    "name": "Novabev Group",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC843E1082",
+    "ticker": "NCR-RM",
+    "name": "NCR Voyix Corp",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-02T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC352C1036",
+    "ticker": "MOS-RM",
+    "name": "Mosaic",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC82991007",
+    "ticker": "PBI-RM",
+    "name": "Pitney Bowes",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC707Q2093",
+    "ticker": "NRDE-RM",
+    "name": "Lordstown Motors Corp",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-03T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC936P1049",
+    "ticker": "LYFT-RM",
+    "name": "Lyft Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000QF1Q17",
+    "ticker": "FESH",
+    "name": "ДВМП",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2008-08-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC775A1007",
+    "ticker": "BLNK-RM",
+    "name": "Blink Charging Co",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG003M5Q5B5",
+    "ticker": "RTGZ",
+    "name": "Ростовоблгаз",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-09T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC559M1027",
+    "ticker": "SWKS-RM",
+    "name": "Skyworks Solutions",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-29T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000FJ6S03",
+    "ticker": "VGSBP",
+    "name": "Волгоградэнергосбыт - привилегированные акции",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-12T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG00Z197548",
+    "ticker": "BSPBP",
+    "name": "Банк Санкт-Петербург",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2021-04-19T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC915M2008",
+    "ticker": "Z-RM",
+    "name": "Zillow Group Inc. Class C",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-05T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC71971076",
+    "ticker": "SNPS-RM",
+    "name": "Synopsys",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-05-06T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG0100R9963",
+    "ticker": "SGZH",
+    "name": "Сегежа",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2021-04-28T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC72531090",
+    "ticker": "URI-RM",
+    "name": "United Rentals",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-26T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC665G1085",
+    "ticker": "GDRX-RM",
+    "name": "GoodRx Holdings Inc",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-24T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000NLCCM3",
+    "ticker": "LSNGP",
+    "name": "Россети Ленэнерго - акции привилегированные",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2000-01-19T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC61961072",
+    "ticker": "HAS-RM",
+    "name": "Hasbro",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-06T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC65191069",
+    "ticker": "ADSK-RM",
+    "name": "Autodesk",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC773T1097",
+    "ticker": "CPNG-RM",
+    "name": "Coupang, Inc.",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-30T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000CVM618",
+    "ticker": "JNOS",
+    "name": "Славнефть ЯНОС",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG000VJMH65",
+    "ticker": "MRKS",
+    "name": "Россети Сибирь",
+    "lot": 1000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2008-08-22T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC62241013",
+    "ticker": "VIRT-RM",
+    "name": "Virtu Financial, Inc.",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-14T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC13101034",
+    "ticker": "CE-RM",
+    "name": "Celanese Corp",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-25T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC56031080",
+    "ticker": "DOV-RM",
+    "name": "Dover",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-01T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004731032",
+    "ticker": "LKOH",
+    "name": "ЛУКОЙЛ",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2000-01-04T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A107J11",
+    "ticker": "DELI",
+    "name": "Делимобиль",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2024-02-07T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC14091044",
+    "ticker": "EL-RM",
+    "name": "The Estee Lauder Companies",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-28T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A0JVJQ8",
+    "ticker": "MGKL",
+    "name": "МГКЛ",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2023-12-28T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC48721085",
+    "ticker": "BIDU-RM",
+    "name": "Baidu",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-29T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000NLLWQ5",
+    "ticker": "CHGZ",
+    "name": "РН-Западная Сибирь",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-20T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC25231067",
+    "ticker": "PEG-RM",
+    "name": "Public Service Enterprise Group",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-11-24T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC689P1012",
+    "ticker": "EOG-RM",
+    "name": "EOG Resources",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-07-31T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS009046502",
+    "ticker": "UDMN",
+    "name": "Удмуртнефть",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2023-04-26T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A10CL72",
+    "ticker": "INCB",
+    "name": "Инкаб Холдинг",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2026-06-24T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC842C1080",
+    "ticker": "CNX-RM",
+    "name": "CNX Resources Corporation",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-10-13T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC525Q1040",
+    "ticker": "MA-RM",
+    "name": "Mastercard",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG0018X75N2",
+    "ticker": "MAGEP",
+    "name": "Магаданэнерго - привилегированные акции",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC15991057",
+    "ticker": "ON-RM",
+    "name": "ON Semiconductor Corp",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S68BR5",
+    "ticker": "NMTP",
+    "name": "НМТП",
+    "lot": 100,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2007-11-08T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000QFH687",
+    "ticker": "TGKA",
+    "name": "ТГК-1",
+    "lot": 100000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2007-03-30T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC23571013",
+    "ticker": "SYK-RM",
+    "name": "Stryker",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2026-03-16T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS40A106YF0",
+    "ticker": "VKCO",
+    "name": "ВК",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2021-12-17T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC466T1088",
+    "ticker": "TROW-RM",
+    "name": "T Rowe Price Group",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC230M1036",
+    "ticker": "DVN-RM",
+    "name": "Devon Energy",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-01T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC536V1035",
+    "ticker": "ZTS-RM",
+    "name": "Zoetis",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-14T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC174P1084",
+    "ticker": "MDRX-RM",
+    "name": "Veradigm Inc.",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-12T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC56371010",
+    "ticker": "PHM-RM",
+    "name": "PulteGroup",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-27T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC51821022",
+    "ticker": "FLR-RM",
+    "name": "Fluor",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-09-01T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC942E1029",
+    "ticker": "PWR-RM",
+    "name": "Quanta Services",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-18T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG004S68FR6",
+    "ticker": "MTLRP",
+    "name": "Мечел - Привилегированные акции",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2011-04-21T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC18611073",
+    "ticker": "LOW-RM",
+    "name": "Lowe's",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "figi": "TCSC97581081",
+    "ticker": "PEP-RM",
+    "name": "PepsiCo",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-04-28T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000J1Z285",
+    "ticker": "NNSBP",
+    "name": "ТНС энерго Нижний Новгород - привилегированные акции",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-14T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG000MDCP25",
+    "ticker": "TORSP",
+    "name": "Томская распределительная компания - привилегированные акции",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-12T07:00:00+00:00"
+  },
+  {
+    "figi": "TCS00A104U43",
+    "ticker": "BTBR",
+    "name": "В2В-РТС",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2026-04-17T00:00:00+00:00"
+  },
+  {
+    "figi": "BBG000DD0BC8",
+    "ticker": "LPSB",
+    "name": "Липецкая энергосбытовая компания",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2023-08-03T07:00:00+00:00"
+  },
+  {
+    "figi": "BBG000C7P5M7",
+    "ticker": "MRKY",
+    "name": "Россети Юг",
+    "lot": 10000,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2008-07-07T00:00:00+00:00"
+  },
+  {
+    "figi": "TCS109034268",
+    "ticker": "GAZA",
+    "name": "ГАЗ - обыкновенные акции",
+    "lot": 10,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": true,
+    "first_1day_candle_date": "2018-03-07T07:00:00+00:00"
+  },
+  {
+    "figi": "TCSC47601033",
+    "ticker": "AWK-RM",
+    "name": "American Water Works",
+    "lot": 1,
+    "real_exchange": 1,
+    "currency": "rub",
+    "api_trade_available_flag": false,
+    "first_1day_candle_date": "2025-12-29T00:00:00+00:00"
+  }
+]
